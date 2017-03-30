@@ -199,7 +199,7 @@ textarea {
    /*NAVBAR RULES*/
    .navbar {
        width: 100%;
-       position: fixed;
+       position:fixed;
    }
    .navbar ul {
        list-style-type: none;
@@ -232,7 +232,6 @@ textarea {
 .gallerie p
 {
   text-align: center;
-  
 }
 
 
@@ -247,7 +246,7 @@ textarea {
        .gallerie ul li{
             position:relative;float:left;
 
-            width:200px;height:200px;padding:10px;list-style:none;
+            width:200px;height:200px;padding:40px;list-style:none;
        }
        /*permet de créer deux lignes*/
        .gallerie ul li:nth-child(4n){clear:left;}
