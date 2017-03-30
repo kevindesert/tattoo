@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    CSS3 create website article "Galerie photo hover avec transition CSS" http://www.css3create.com
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    Merci à CSS3 website
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
