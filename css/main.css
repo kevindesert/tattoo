@@ -232,7 +232,7 @@ textarea {
 .gallerie h1 a
 {
     text-decoration: none;
-    color: black;  
+    color: black;
 }
 .gallerie p
 {
@@ -309,11 +309,40 @@ textarea {
   padding-left: 10.5em;
 }
 
+.bottom
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bottom img
+{
+  width: 30%;
+  padding-left: 2em;
+  margin-bottom: 1em;
+}
 
+/*Footer*/
 
+footer
+{
+  background-color: black;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+footer h3
+{
+  margin-left: 1em;
+}
+footer nav ul li
+{
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 1em;
 
-
-
+  color: white;
+}
 
 
 
