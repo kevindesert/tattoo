@@ -341,11 +341,31 @@
   width: 30%;
 }
 
+  /*END OF THE BLOG PAGE .HTML*/
 
 
 
 
+  /*CTC PAGE .HTML*/
+.question
+{
+  background-color: #FFFAFA;
 
+}
+.question iframe
+{
+  width: 100%;
+}
+.question form fieldset
+{
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+.question img
+{
+  width: 20%;
+}
 
 
 
